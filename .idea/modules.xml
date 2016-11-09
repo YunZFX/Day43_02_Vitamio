@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day43_02_Vitamio.iml" filepath="$PROJECT_DIR$/Day43_02_Vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vitamio_Library/Vitamio_Library.iml" filepath="$PROJECT_DIR$/Vitamio_Library/Vitamio_Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vitamio官方样例/Vitamio官方样例.iml" filepath="$PROJECT_DIR$/Vitamio官方样例/Vitamio官方样例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day43_02_vitamio框架的使用/day43_02_vitamio框架的使用.iml" filepath="$PROJECT_DIR$/day43_02_vitamio框架的使用/day43_02_vitamio框架的使用.iml" />
+    </modules>
+  </component>
+</project>
